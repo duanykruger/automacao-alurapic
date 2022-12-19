@@ -1,0 +1,15 @@
+{
+  "name": "automacao-alurapic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Duany Kruger",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.0.1",
+    "mochawesome": "^7.1.3"
+  }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "email": "prometheus@alura.com.br",
+        "fullName": "Prometheus Alura",
+        "userName": "prometheus",
+        "password": "prometheus1899"
+    },
+    {
+        "email": "manifesto@alura.com.br",
+        "fullName": "Manifesto Alura",
+        "userName": "manifesto",
+        "password": "chamdomanifesto"
+    },
+    {
+        "email": "glitch@alura.com.br",
+        "fullName": "Glitch Alura",
+        "userName": "glitch",
+        "password": "avolta"
+    }
+]
